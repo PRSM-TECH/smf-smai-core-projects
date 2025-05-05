@@ -66,5 +66,8 @@ This collection showcases practical, job-ready implementations of AI **Fairness*
 ```
 #ai-ethics  #fairness  #explainability  #governance  #rpa  #multi-agent-ai  #responsible-ai  #soulmindai  #soulmindfusion
 ```
+⚠️ Note: SoulMindFusion (SMF) is a personal mission to align technology with mindful living and ethical thinking. It is not a company or commercial organization. All work under SMF is self-driven, non-commercial, and intended for educational, service, or awareness purposes only.
+
+⚠️ Note: SoulMindAI is a non-commercial, self-directed AI ethics and automation initiative under the SoulMindFusion vision. It is not a company, product, or startup. All projects are independently developed for learning, ethical awareness, and job-readiness purposes.
 
 > “AI that respects nature, enhances awareness, and builds trust through ethics.”
