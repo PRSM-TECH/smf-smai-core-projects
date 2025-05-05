@@ -67,11 +67,4 @@ This collection showcases practical, job-ready implementations of AI **Fairness*
 #ai-ethics  #fairness  #explainability  #governance  #rpa  #multi-agent-ai  #responsible-ai  #soulmindai  #soulmindfusion
 ```
 
----
-
-### 🌱 More Info
-
-* 🔗 Website: [SoulMindFusion.com](https://soulmindfusion.com)
-* 🔗 AI Portal: [SoulMindAI.com](https://soulmindai.com)
-
 > “AI that respects nature, enhances awareness, and builds trust through ethics.”
